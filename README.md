@@ -1,2 +1,2 @@
 # woobie
-Files for woobie projects only.
+Data files to facilitate practice.
